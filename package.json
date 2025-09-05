@@ -2,6 +2,7 @@
   "name": "odyoloji-kulubu-website",
   "version": "1.0.0",
   "description": "Odyoloji Kulübü Web Sitesi",
+  "homepage": "https://musoysal.github.io/erenolut",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
