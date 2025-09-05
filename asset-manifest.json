@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/erenolut/static/css/main.eaee7e62.css",
-    "main.js": "/erenolut/static/js/main.64208ca6.js",
+    "main.js": "/erenolut/static/js/main.c2e9e503.js",
     "index.html": "/erenolut/index.html",
     "main.eaee7e62.css.map": "/erenolut/static/css/main.eaee7e62.css.map",
-    "main.64208ca6.js.map": "/erenolut/static/js/main.64208ca6.js.map"
+    "main.c2e9e503.js.map": "/erenolut/static/js/main.c2e9e503.js.map"
   },
   "entrypoints": [
     "static/css/main.eaee7e62.css",
-    "static/js/main.64208ca6.js"
+    "static/js/main.c2e9e503.js"
   ]
 }
